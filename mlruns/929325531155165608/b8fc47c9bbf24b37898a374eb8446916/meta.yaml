@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLflow-demo/mlruns/929325531155165608/b8fc47c9bbf24b37898a374eb8446916/artifacts
+end_time: 1743053162342
+entry_point_name: ''
+experiment_id: '929325531155165608'
+lifecycle_stage: active
+run_id: b8fc47c9bbf24b37898a374eb8446916
+run_name: honorable-donkey-887
+run_uuid: b8fc47c9bbf24b37898a374eb8446916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053162288
+status: 3
+tags: []
+user_id: hp

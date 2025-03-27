@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLflow-demo/mlruns/929325531155165608/ca1fdb7adf5f40f5b543b12aad72ddab/artifacts
+end_time: 1743052901331
+entry_point_name: ''
+experiment_id: '929325531155165608'
+lifecycle_stage: active
+run_id: ca1fdb7adf5f40f5b543b12aad72ddab
+run_name: clean-conch-231
+run_uuid: ca1fdb7adf5f40f5b543b12aad72ddab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743052901279
+status: 4
+tags: []
+user_id: hp

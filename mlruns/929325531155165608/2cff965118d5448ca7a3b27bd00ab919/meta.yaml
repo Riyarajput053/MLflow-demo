@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLflow-demo/mlruns/929325531155165608/2cff965118d5448ca7a3b27bd00ab919/artifacts
+end_time: 1743053162100
+entry_point_name: ''
+experiment_id: '929325531155165608'
+lifecycle_stage: active
+run_id: 2cff965118d5448ca7a3b27bd00ab919
+run_name: gifted-skink-735
+run_uuid: 2cff965118d5448ca7a3b27bd00ab919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053162046
+status: 3
+tags: []
+user_id: hp

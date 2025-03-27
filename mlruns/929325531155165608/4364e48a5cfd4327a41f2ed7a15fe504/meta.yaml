@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLflow-demo/mlruns/929325531155165608/4364e48a5cfd4327a41f2ed7a15fe504/artifacts
+end_time: 1743053161915
+entry_point_name: ''
+experiment_id: '929325531155165608'
+lifecycle_stage: active
+run_id: 4364e48a5cfd4327a41f2ed7a15fe504
+run_name: angry-shrike-603
+run_uuid: 4364e48a5cfd4327a41f2ed7a15fe504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053161863
+status: 3
+tags: []
+user_id: hp

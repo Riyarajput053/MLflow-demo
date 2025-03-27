@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLflow-demo/mlruns/929325531155165608/c73e1f6dd50e4556ba600c3fd7ba38a7/artifacts
+end_time: 1743053162037
+entry_point_name: ''
+experiment_id: '929325531155165608'
+lifecycle_stage: active
+run_id: c73e1f6dd50e4556ba600c3fd7ba38a7
+run_name: invincible-shad-331
+run_uuid: c73e1f6dd50e4556ba600c3fd7ba38a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053161983
+status: 3
+tags: []
+user_id: hp

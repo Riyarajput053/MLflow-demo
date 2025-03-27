@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MLops/MLflow-demo/mlruns/929325531155165608
+creation_time: 1743052900556
+experiment_id: '929325531155165608'
+last_update_time: 1743052900556
+lifecycle_stage: active
+name: hypertuning-cancer

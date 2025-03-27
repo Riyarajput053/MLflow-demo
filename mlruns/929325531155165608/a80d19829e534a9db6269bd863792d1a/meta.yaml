@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLflow-demo/mlruns/929325531155165608/a80d19829e534a9db6269bd863792d1a/artifacts
+end_time: 1743053162465
+entry_point_name: ''
+experiment_id: '929325531155165608'
+lifecycle_stage: active
+run_id: a80d19829e534a9db6269bd863792d1a
+run_name: redolent-deer-418
+run_uuid: a80d19829e534a9db6269bd863792d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053162411
+status: 3
+tags: []
+user_id: hp

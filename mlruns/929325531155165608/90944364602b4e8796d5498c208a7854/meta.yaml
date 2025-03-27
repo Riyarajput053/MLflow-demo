@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLflow-demo/mlruns/929325531155165608/90944364602b4e8796d5498c208a7854/artifacts
+end_time: 1743053161795
+entry_point_name: ''
+experiment_id: '929325531155165608'
+lifecycle_stage: active
+run_id: 90944364602b4e8796d5498c208a7854
+run_name: rumbling-ram-330
+run_uuid: 90944364602b4e8796d5498c208a7854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053161726
+status: 3
+tags: []
+user_id: hp
