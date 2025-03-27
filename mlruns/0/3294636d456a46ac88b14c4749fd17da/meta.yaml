@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3294636d456a46ac88b14c4749fd17da/artifacts
+end_time: 1742993293359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3294636d456a46ac88b14c4749fd17da
+run_name: vaunted-colt-862
+run_uuid: 3294636d456a46ac88b14c4749fd17da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742993292574
+status: 3
+tags: []
+user_id: hp

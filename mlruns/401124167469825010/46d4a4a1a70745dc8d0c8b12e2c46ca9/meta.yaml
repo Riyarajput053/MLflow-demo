@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/401124167469825010/46d4a4a1a70745dc8d0c8b12e2c46ca9/artifacts
+end_time: 1742993450077
+entry_point_name: ''
+experiment_id: '401124167469825010'
+lifecycle_stage: active
+run_id: 46d4a4a1a70745dc8d0c8b12e2c46ca9
+run_name: abundant-sponge-567
+run_uuid: 46d4a4a1a70745dc8d0c8b12e2c46ca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742993449423
+status: 3
+tags: []
+user_id: hp
